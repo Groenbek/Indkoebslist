@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00f68f48-56b8-403a-9fff-3901cf83f2ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddItemServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LogOutServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LogInServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LogInServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/HuskeListe.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/HuskeListe.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583162047998</updated>
-      <workItem from="1583162050413" duration="9162000" />
+      <workItem from="1583162050413" duration="11503000" />
     </task>
     <servers />
   </component>
